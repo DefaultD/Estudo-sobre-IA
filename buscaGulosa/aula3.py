@@ -4,5 +4,5 @@ from vetorOrdenado import VetorOrdenado
 from grafo import Grafo
 
 grafo = Grafo()
-busca_gulosa = Gulosa(grafo.bucharest)
-busca_gulosa.buscar(grafo.lugoj)
+busca_gulosa = Gulosa(grafo.riminicu)
+busca_gulosa.buscar(grafo.arad)
